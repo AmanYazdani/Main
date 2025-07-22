@@ -1,2 +1,2 @@
 # Main
-Demo ofr cloning and connecting to vscode
+Demo for cloning and connecting to vscode
